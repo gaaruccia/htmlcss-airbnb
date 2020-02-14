@@ -22,8 +22,8 @@
   height: 33vw;
   background-image: url(img/duomo.jpg);
   background-size: cover;
-  margin-bottom: 10px;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 #copenaghen{
   position: relative;
